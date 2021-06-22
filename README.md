@@ -1,4 +1,4 @@
-# payflow
+# pay-flow
 
 Aplicativo desenvolvido na semana NLW onde em 7 dias será desenvolvido um aplicativo para gerenciar seus boletos com recursos de agendamento e pagamentos.
 
