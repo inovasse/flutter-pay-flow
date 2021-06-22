@@ -11,3 +11,6 @@ Nesta aplicação utilizaremos alguns recursos interessantes como LEITOR DE CÓD
 
 ## Layout
 ![Screenshot_9](https://user-images.githubusercontent.com/33072344/122949823-5a423700-d352-11eb-867a-63195b81cc8c.png)
+
+## Agradecimentos
+Agradecimento a toda equipe da RocketSeat e ao instrutor GABU por todos os ensinamentos.
