@@ -4,7 +4,7 @@ Aplicativo desenvolvido na semana NLW onde em 7 dias será desenvolvido um aplic
 
 Nesta aplicação utilizaremos alguns recursos interessantes como LEITOR DE CÓDIGO DE BARRASA via câmera do celular, bem como replicação de layout do FIGMA para o FLUTTER.
 
-##Recursos
+## Recursos
 - Google Fontes
 - Glossário de cores
 - Leiutura de código de barras via câmera do celular
