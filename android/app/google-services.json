@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1053589598639",
+    "project_id": "fire-payflow",
+    "storage_bucket": "fire-payflow.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1053589598639:android:2071bbb000a4efc3b37f5a",
+        "android_client_info": {
+          "package_name": "com.example.payflow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1053589598639-17coit80njdpo0s2hlnaqpqjsi12g4hs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.payflow",
+            "certificate_hash": "c8ed38a8bb03a726c457a5f0f611bef028b91b55"
+          }
+        },
+        {
+          "client_id": "1053589598639-cv7pbs6kt1tdcev17vtjbv9dplks9okj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5vlWDzJwy7qKtbp7jlsu1T2mcLDs_hdk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1053589598639-cv7pbs6kt1tdcev17vtjbv9dplks9okj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
