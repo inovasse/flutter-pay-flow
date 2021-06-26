@@ -118,8 +118,9 @@ class _InsertBoletoPageState extends State<InsertBoletoPage> {
         },
         secondaryLabel: "Inserir",
         secondaryOnPressed: () async {
-          await controller.cadastrarBoleto();
-          Navigator.pop(context);
+          bool cadastrado = await controller.cadastrarBoleto();
+          if (cadastrado)
+            Navigator.popUntil(context, ModalRoute.withName("/home"));
         },
       ),
     );
